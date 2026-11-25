@@ -138,4 +138,3 @@ The full analysis is in [`docs/REPORT.md`](docs/REPORT.md) (PDF: `docs/REPORT.pd
 | ![](docs/charts/03_sorting_comparison.png) | ![](docs/charts/04_tsp_quality.png) |
 | ![](docs/charts/05_knapsack_runtime.png) | ![](docs/charts/06_shortest_paths.png) |
 | ![](docs/charts/07_route_length.png) | ![](docs/charts/08_deadline_optimisation.png) |
-# col_algo_capstone
